@@ -3,7 +3,7 @@ description: A Flutter package for formatting text data like phone numbers, cred
 version: 0.1.0
 repository: https://github.com/MesudSURUCU/clipboard_formatter
 homepage: https://github.com/MesudSURUCU/clipboard_formatter
-issue_tracker: https://github.com/mesutsurucu/clipboard_formatter/issues
+issue_tracker: https://github.com/MesudSURUCU/clipboard_formatter/issues
 
 
 environment:
