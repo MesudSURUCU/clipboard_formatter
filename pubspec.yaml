@@ -1,0 +1,23 @@
+name: clipboard_formatter
+description: A Flutter package for formatting text data like phone numbers, credit cards, IBANs, dates, and currencies, with special formatting for Turkish users.
+version: 0.1.0
+repository: https://github.com/MesudSURUCU/clipboard_formatter
+homepage: https://github.com/MesudSURUCU/clipboard_formatter
+issue_tracker: https://github.com/mesutsurucu/clipboard_formatter/issues
+
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  # No Flutter-specific assets or configurations needed
