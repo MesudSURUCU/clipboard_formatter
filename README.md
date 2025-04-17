@@ -1,5 +1,5 @@
 
-![uyghur](https://github.com/user-attachments/assets/89c70b58-af45-400d-8c8d-92816ba30c7a)
+![uyghur (1)](https://github.com/user-attachments/assets/3dc74549-d35e-42fc-a8ee-005cbade2a3a)
 
 // EN // 
 
